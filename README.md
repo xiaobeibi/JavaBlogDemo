@@ -1,6 +1,6 @@
 <center><h2>Java博客项目</h2></center>
 
-**项目效果：**http://obgeqwh.top:8080
+项目效果：http://obgeqwh.top:8080
 
 ---
 
@@ -259,7 +259,7 @@ public class CacheAspect {
 
 ## 项目来源说明
 
-<iframe src="//player.bilibili.com/player.html?aid=631011107&bvid=BV1Gb4y1d7zb&cid=351152822&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1Gb4y1d7zb?share_source=copy_web
 
 感谢码神之路up主的视频支持，获益匪浅。
 
