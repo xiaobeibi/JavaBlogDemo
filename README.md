@@ -4,7 +4,7 @@
 
 ---
 
-![20220308140932](https://gitee.com/tytokongjian/image/raw/master/images/202203081547166.jpg)
+![20220308140932](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/202203081547166.jpg)
 
 
 
@@ -18,7 +18,7 @@
 
 ### MySQL表结构
 
-![20220308143419](https://gitee.com/tytokongjian/image/raw/master/images/202203081548615.jpg)
+![20220308143419](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/202203081548615.jpg)
 
 
 
@@ -241,19 +241,19 @@ public class CacheAspect {
 
 ### 文章分类
 
-![20220308141011](https://gitee.com/tytokongjian/image/raw/master/images/202203081548743.jpg)
+![20220308141011](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/202203081548743.jpg)
 
 ### 文章标签
 
-![20220308141030](https://gitee.com/tytokongjian/image/raw/master/images/202203081548399.jpg)
+![20220308141030](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/202203081548399.jpg)
 
 ### 文章归档
 
-![20220308141050](https://gitee.com/tytokongjian/image/raw/master/images/202203081548434.jpg)
+![20220308141050](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/202203081548434.jpg)
 
 ### 写文章
 
-![20220308141108](https://gitee.com/tytokongjian/image/raw/master/images/202203081548031.jpg)
+![20220308141108](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/202203081548031.jpg)
 
 
 
